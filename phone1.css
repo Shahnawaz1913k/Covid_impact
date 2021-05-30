@@ -1,0 +1,37 @@
+#navBar{
+    flex-direction: column;
+}
+
+#navBar ul li a{
+    font-size: 1rem ;
+    padding: 0px 10px ;
+    padding-bottom: 4px;
+}
+
+
+#impact{
+    height: 100px;
+    padding: 5px 4px;
+}
+
+#impact::before{
+    height: 444px;
+}
+
+#impact h1{
+    padding: 0%;
+}
+
+#impact p{
+    font-size: 14px;
+}
+
+
+#resources .box{
+    /* height: 200px; */
+    margin: 10px 8px;
+}
+
+#resources .box img{
+    width: 75%;
+}

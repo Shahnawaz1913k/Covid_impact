@@ -1,0 +1,143 @@
+/* html{
+    background :url(../images/hackon2.0\ upimg.jpg) no-repeat center center fixed;
+   background-size: 1000px;
+   background-position: 150px top;
+   /* width: 20000000000000000000000000000000000000px; */
+
+
+
+
+ .text{
+
+  
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  width: 80%;
+  height: 20px solid rgb(0, 0, 0);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 9000px;
+
+}
+.text .heding{
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: rgb(83, 56, 15)0);
+  
+}
+.max-width{
+  max-width: 1300px;
+  padding:  0 80px;
+  margin: auto;
+}
+/Navbar Styling/
+
+
+.navbar_n{
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  padding: 20px 0;
+  background: rgba(0,0,0,0.8);
+  font-family: 'poppins',sans-serif;
+  
+}
+
+.navbar_n .max-width{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.navbar_n .logo a{
+  color: rgb(15, 14, 14);
+  font-size: 35px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.navbar_n .logo a span{
+  color: crimson;
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.navbar_n .menu li{
+  list-style: none;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.navbar_n .menu li a{
+
+  color: beige;
+  text-decoration: none;
+  
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 25px;
+  transition: color 0.3s ease;
+}
+.navbar_n .menu li a:hover{
+  color: crimson;
+}
+
+  .navbar_n{
+  background-color: rgba(0, 0, 0, 0.61);
+}
+  .navbar ul{
+  overflow: auto;
+}
+.navbar li {
+   float: right;
+   list-style: none;
+   margin: 13px 20px;
+}
+ .navbar li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+footer{
+  background-color: rgba(0, 0, 0, 0.623);
+}
+
+.footer ul{
+  overflow: auto;
+}
+.footer li {
+  float: right;
+  list-style: none;
+  margin: 13px 20px;
+}
+
+.footer li a{
+  padding: 3px 3px;
+  text-decoration: none;
+  color: white;
+}
+
+
+body{
+ 
+  font-weight: 300;
+  font-style: normal;
+  font-family: 'Poppins', sans-serif;
+}
+
+.footer .left{
+  text-decoration: none;
+
+}
+
+.footer .left{
+  text-decoration: white;
+  font-size: 30px;
+}
+
